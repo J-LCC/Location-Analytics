@@ -1,7 +1,7 @@
 # Location-Analytics
 En este repositorio, vamos a estudiar como usar el análisis de la localización para aportar valor a un caso de negocio concreto. ¿En qué consiste exactamente? Lo vemos a continuación.
 
-A partir de los datos de clientes de una compañía en la ciudad de Londres, se pide lo siguiente:
+A partir de los datos de clientes de una compañía en la ciudad de Londres, se quieren realizar las siguientes acciones:
 
 1.	La empresa tiene actualmente 33 sucursales en Londres, una por distrito, y ante la falta de rentabilidad necesita cerrar tres de estas oficinas. Ha decidido que lo hará con aquellas que tengan menor volumen de negocio (suma del consumo de todos los productos) de clientela menor de 55 años (ya que considera que, con sus servicios de banca electrónica, este tipo de clientes estarían cubiertos).
 
