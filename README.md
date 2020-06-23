@@ -8,8 +8,12 @@ A partir de los datos de clientes de una compañía en la ciudad de Londres, se 
 2.	Quiere saber, para cada uno de los distritos cerrados, si hay alguna oficina u oficinas ubicadas en un distrito cercano a las que pueda derivar a los clientes en caso de necesidad. Para ello, se considerará que las oficinas están geoposicionadas en el centro de los correspondientes distritos.
 
 Vamos a seguir los siguientes pasos para resolver el problema:
+
 •	Obtención de datos en crudo.
+
 •	Preprocesamiento de datos.
+
 •	Obtención del insight.
+
 •	Presentación de los resultados y decisión final.
 
