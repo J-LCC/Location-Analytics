@@ -1,5 +1,5 @@
 # Location-Analytics
-En este repositorio, vamos a estudiar como usar el análisis de la localización para aportar valor a un caso de negocio concreto. ¿En qué consiste exactamente? Lo vemos a continuación.
+En este repositorio, vamos a estudiar como usar el análisis de la localización para aportar valor a un caso de negocio concreto. El análisis espacial comprende un conjunto de técnicas formales de análisis de datos que incluyen propiedades espaciales que permiten ubicarlos de alguna forma en el espacio. 
 
 A partir de los datos de clientes de una compañía en la ciudad de Londres, se quieren realizar las siguientes acciones:
 
@@ -7,7 +7,7 @@ A partir de los datos de clientes de una compañía en la ciudad de Londres, se 
 
 2.	Quiere saber, para cada uno de los distritos cerrados, si hay alguna oficina u oficinas ubicadas en un distrito cercano a las que pueda derivar a los clientes en caso de necesidad. Para ello, se considerará que las oficinas están geoposicionadas en el centro de los correspondientes distritos.
 
-Vamos a seguir los siguientes pasos para resolver el problema:
+Para resolver el problema, seguimos los siguientes pasos:
 
  •	Obtención de datos en crudo.
 
