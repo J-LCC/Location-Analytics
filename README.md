@@ -9,11 +9,11 @@ A partir de los datos de clientes de una compañía en la ciudad de Londres, se 
 
 Vamos a seguir los siguientes pasos para resolver el problema:
 
-•	Obtención de datos en crudo.
+ •	Obtención de datos en crudo.
 
-•	Preprocesamiento de datos.
+ •	Preprocesamiento de datos.
 
-•	Obtención del insight.
+ •	Obtención del insight.
 
-•	Presentación de los resultados y decisión final.
+ •	Presentación de los resultados y decisión final.
 
