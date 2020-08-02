@@ -1,4 +1,4 @@
-# Location-Analytics
+# Location Analytics
 En este repositorio, vamos a estudiar como usar el análisis de la localización para aportar valor a un caso de negocio concreto. El análisis espacial comprende un conjunto de técnicas formales de análisis de datos que incluyen propiedades espaciales que permiten ubicarlos de alguna forma en el espacio. 
 
 A partir de los datos de clientes de una compañía en la ciudad de Londres, se quieren realizar las siguientes acciones:
